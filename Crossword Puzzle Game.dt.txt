@@ -1,0 +1,23 @@
+
+The following natural language description captures the core functionality and key features that would allow someone to recreate the application from scratch.
+
+
+Crossword puzzle application, you would need to:
+
+Create a Python Tkinter application that generates 6-word crossword puzzles with randomly fetched words from 
+the Datamuse API based on four categories (Science, History, Politics, Geography). 
+Include a 'New Game' button that prompts category selection, proper cell numbering with coordinates, and game controls for checking answers and getting hints.
+
+
+Challenge:
+Copy the code and insert in a n NLP.
+See if you can get a code using natural language, to get additional subjects like 'Famous People'.
+See if you can offer challenge options like 'Easy', 'Medium', 'Expert'.
+
+
+Most important of all, have fun, enjoy the journey!
+
+
+
+
+
